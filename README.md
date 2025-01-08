@@ -1,0 +1,14 @@
+# qssi-user 12 SKQ1.220303.001 V14.0.6.0.SMQMIXM release-keys
+- manufacturer: qualcomm
+- platform: holi
+- codename: sunstone
+- flavor: qssi-user
+- release: 12
+- id: SKQ1.220303.001
+- incremental: V14.0.6.0.SMQMIXM
+- tags: release-keys
+- fingerprint: Redmi/sunstone/sunstone:11/SKQ1.220303.001/V14.0.6.0.SMQMIXM:user/release-keys
+- is_ab: true
+- brand: Redmi
+- branch: qssi-user-12-SKQ1.220303.001-V14.0.6.0.SMQMIXM-release-keys
+- repo: redmi_sunstone_dump

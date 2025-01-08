@@ -1,0 +1,13 @@
+modem.img.xz
+boot.img.xz
+system_ext/priv-app/Settings/Settings.apk.xz
+product/priv-app/Messages/Messages.apk.xz
+product/priv-app/GmsCore/GmsCore.apk.xz
+product/priv-app/Velvet/Velvet.apk.xz
+product/app/WebViewGoogle/WebViewGoogle.apk.xz
+system/priv-app/MiuiCamera/MiuiCamera.apk.xz
+system/priv-app/MiExtraPhotoGlobal/MiExtraPhotoGlobal.apk.xz
+system/priv-app/MIUIGalleryGlobal/MIUIGalleryGlobal.apk.xz
+system/priv-app/MIBrowserGlobal/MIBrowserGlobal.apk.xz
+system/data-app/Opera/Opera.apk.xz
+system/app/MIUIVideoPlayer/MIUIVideoPlayer.apk.xz

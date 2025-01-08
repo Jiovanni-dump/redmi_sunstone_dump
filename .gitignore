@@ -1,0 +1,15 @@
+modem.img
+boot.img
+system_ext/priv-app/Settings/Settings.apk
+system_ext/apex/com.android.vndk.v30.apex
+product/priv-app/Messages/Messages.apk
+product/priv-app/GmsCore/GmsCore.apk
+product/priv-app/Velvet/Velvet.apk
+product/app/WebViewGoogle/WebViewGoogle.apk
+system/priv-app/MiuiCamera/MiuiCamera.apk
+system/priv-app/MiExtraPhotoGlobal/MiExtraPhotoGlobal.apk
+system/priv-app/MIUIGalleryGlobal/MIUIGalleryGlobal.apk
+system/priv-app/MIBrowserGlobal/MIBrowserGlobal.apk
+system/data-app/Opera/Opera.apk
+system/data-app/MIMediaEditorGlobalStone/MIMediaEditorGlobalStone.apk
+system/app/MIUIVideoPlayer/MIUIVideoPlayer.apk
